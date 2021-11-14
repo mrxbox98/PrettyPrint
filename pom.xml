@@ -98,16 +98,16 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:mrxbox98/Jast.git</connection>
-        <developerConnection>scm:git:ssh://github.com:mrxbox98/Jast.git</developerConnection>
-        <url>https://github.com/mrxbox98/Jast/tree/main</url>
+        <connection>scm:git:git@github.com:mrxbox98/PrettyPrint.git</connection>
+        <developerConnection>scm:git:ssh://github.com:mrxbox98/PrettyPrint.git</developerConnection>
+        <url>https://github.com/mrxbox98/PrettyPrint/tree/main</url>
     </scm>
 
     <distributionManagement>
         <repository>
             <id>github</id>
             <name>GitHub mrxbox98 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/mrxbox98/Jast</url>
+            <url>https://maven.pkg.github.com/mrxbox98/PrettyPrint</url>
         </repository>
     </distributionManagement>
 
