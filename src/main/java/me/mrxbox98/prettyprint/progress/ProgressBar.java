@@ -1,7 +1,7 @@
-package me.mrxbox98.prettyprint.Progress;
+package me.mrxbox98.prettyprint.progress;
 
-import me.mrxbox98.prettyprint.Color.BrightBackground;
-import me.mrxbox98.prettyprint.Format.Format;
+import me.mrxbox98.prettyprint.color.BrightBackground;
+import me.mrxbox98.prettyprint.format.Format;
 
 public class ProgressBar {
 
@@ -11,14 +11,9 @@ public class ProgressBar {
 
     String leftColor=BrightBackground.RESET;
 
-    String start;
+    String start="[";
 
-    String end;
-
-    public ProgressBar()
-    {
-        progress=0;
-    }
+    String end="]";
 
     /**
      * Prints the progress bar

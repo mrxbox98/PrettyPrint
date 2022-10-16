@@ -1,4 +1,4 @@
-package me.mrxbox98.prettyprint.Color;
+package me.mrxbox98.prettyprint.color;
 
 public class Background {
 

@@ -1,4 +1,4 @@
-package me.mrxbox98.prettyprint.Format;
+package me.mrxbox98.prettyprint.format;
 
 public class Format {
 
